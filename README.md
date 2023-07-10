@@ -7,6 +7,9 @@
 Aritram-Sarkar/Aritram-Sarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center"> 👋 Hi, I’m Aritram-Sarkar</h1>
+<h3 align="center"> A passionate Gamer from India
+<img align="right" alt="coding" width="400" src="https://github.com/DevMoonTv">
 
 # 💫 About Me:
 🔭 I’m currently working on Game Development<br>🌱 I’m currently learning Photography Skills<br>💬 Ask me about nothing<br>⚡ Fun fact Pro Gamer XD
@@ -28,3 +31,4 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=Aritram-Sarkar&icon=0&color=5)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
