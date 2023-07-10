@@ -1,3 +1,4 @@
+![logo](C:\Users\hp\Downloads)
 <!---
 - 👋 Hi, I’m @Aritram-Sarkar
 - 👀 I’m interested in New things
@@ -7,6 +8,8 @@
 Aritram-Sarkar/Aritram-Sarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 <h1 align="center"> 👋 Hi, I’m Aritram-Sarkar</h1>
 <h3 align="center"> A passionate Gamer from India
 
