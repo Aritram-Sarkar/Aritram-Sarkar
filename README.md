@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Aritram-Sarkar/githubbanner/blob/main/Blue%20%26%20Teal%20Modern%20Personal%20LinkedIn%20Banner.png)
 <!---
 - 👋 Hi, I’m @Aritram-Sarkar
 - 👀 I’m interested in New things
