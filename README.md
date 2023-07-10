@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> A passionate Gamer from India
 
 # 💫 About Me:
-<img align="right" alt="coding" width="400" src="[[https://github.com/DevMoonTv](https://github.com/marcelo-rafael)](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 I’m currently working on Game Development<br>🌱 I’m currently learning Photography Skills<br>💬 Ask me about nothing<br>⚡ Fun fact Pro Gamer XD
 
 
