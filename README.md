@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFoRI10yVI/zBGr_HIOLRzo7mT8s5CENg/edit?utm_content=DAFoRI10yVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo]()
 <!---
 - 👋 Hi, I’m @Aritram-Sarkar
 - 👀 I’m interested in New things
