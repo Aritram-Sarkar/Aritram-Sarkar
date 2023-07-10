@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"> 👋 Hi, I’m Aritram-Sarkar</h1>
 <h3 align="center"> A passionate Gamer from India
-<img align="right" alt="coding" width="400" src="https://github.com/DevMoonTv">
 
 # 💫 About Me:
+<img align="right" alt="coding" width="400" src="https://github.com/DevMoonTv">
 🔭 I’m currently working on Game Development<br>🌱 I’m currently learning Photography Skills<br>💬 Ask me about nothing<br>⚡ Fun fact Pro Gamer XD
 
 
