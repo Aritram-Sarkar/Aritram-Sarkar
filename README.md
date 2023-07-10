@@ -8,7 +8,6 @@ Aritram-Sarkar/Aritram-Sarkar is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="left" alt="coding" width="400" src="https://github.com/DevMoonTv">
 # 💫 About Me:
 🔭 I’m currently working on Game Development<br>🌱 I’m currently learning Photography Skills<br>💬 Ask me about nothing<br>⚡ Fun fact Pro Gamer XD
 
